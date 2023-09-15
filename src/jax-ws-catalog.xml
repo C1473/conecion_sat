@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://consultaqr.facturaelectronica.sat.gob.mx/ConsultaCFDIService.svc" uri="wsdl/consultaqr.facturaelectronica.sat.gob.mx/ConsultaCFDIService.svc"/>
+    <system systemId="https://consultaqr.facturaelectronica.sat.gob.mx/ConsultaCFDIService.svc?xsd=xsd0" uri="wsdl/consultaqr.facturaelectronica.sat.gob.mx/ConsultaCFDIService.svc.xsd_xsd0"/>
+    <system systemId="https://consultaqr.facturaelectronica.sat.gob.mx/ConsultaCFDIService.svc?xsd=xsd1" uri="wsdl/consultaqr.facturaelectronica.sat.gob.mx/ConsultaCFDIService.svc.xsd_xsd1.xsd"/>
+    <system systemId="https://consultaqr.facturaelectronica.sat.gob.mx/ConsultaCFDIService.svc?xsd=xsd2" uri="wsdl/consultaqr.facturaelectronica.sat.gob.mx/ConsultaCFDIService.svc.xsd_xsd2"/>
+</catalog>
